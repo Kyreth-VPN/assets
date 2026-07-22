@@ -1,0 +1,2 @@
+# assets
+Ресурсы Kyreth
